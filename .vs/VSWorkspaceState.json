@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\src",
+    "\\backend\\src\\Timekeeping.Api",
+    "\\frontend"
+  ],
+  "SelectedNode": "\\backend\\src\\Timekeeping.Api\\Timekeeping.Api.csproj",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Doc\\source\\repos\\TimeKeeper\\backend\\src\\Timekeeping.Api\\..\\..\\..\\frontend\\",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
